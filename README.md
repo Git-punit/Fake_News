@@ -5,9 +5,6 @@ A modern, full-stack web application designed to detect fake news using advanced
 ## 🚀 Demo
 > **[Insert Your Deployed App Link Here]**
 > 
-> *Currently running locally at:* `http://localhost:5173`
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Veritas+AI+Dashboard)
 
 ## ✨ Features
 *   **Dual AI Engines**: Switch between **Logistic Regression (ML)** and **Neural Networks (DL)** for analysis.
