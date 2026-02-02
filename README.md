@@ -3,7 +3,7 @@
 A modern, full-stack web application designed to detect fake news using advanced Machine Learning and Deep Learning algorithms. Built with a premium **React** frontend and a robust **Flask** backend.
 
 ## 🚀 Demo
-> **[View Live Demo Here](#)** *(Add your deployed link here)*
+> **[Insert Your Deployed App Link Here]**
 > 
 > *Currently running locally at:* `http://localhost:5173`
 
