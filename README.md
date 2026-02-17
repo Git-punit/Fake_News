@@ -52,7 +52,7 @@ npm run dev
 ```
 *App runs on:* `http://localhost:5173`
 
-## 💡 How to Use
+##  How to Use
 1.  **Select a Model**: Choose between **Machine Learning** (faster) or **Deep Learning** (more complex).
 2.  **Input Text**: Paste a news article or use the **"Paste Fake/Real Sample"** buttons to auto-fill.
 3.  **Analyze**: Click **"Detect Fake News"**.
