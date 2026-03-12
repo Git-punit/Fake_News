@@ -68,7 +68,7 @@ Fake_News/
 ├── frontend/           # React Frontend
 │   ├── src/            # Source code
 │   └── public/         # Static assets
-└── README.md           # This file
+└── README.md
 ```
 
 ---
