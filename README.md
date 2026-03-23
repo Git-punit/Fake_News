@@ -59,6 +59,7 @@ npm run dev
 4.  **View Results**: See the verdict (Fake/Real) and the confidence percentage.
 5.  **Toggle Theme**: Use the Moon/Sun icon to switch themes.
 
+
 ## 📂 Project Structure
 ```
 Fake_News/
